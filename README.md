@@ -1,3 +1,5 @@
+Android动态权限管理
+
 # PermissionsDispatcher ![CI for pull request](https://github.com/permissions-dispatcher/PermissionsDispatcher/workflows/CI%20for%20pull%20request/badge.svg) [![PermissionsDispatcher](https://www.appbrain.com/stats/libraries/shield/permissions_dispatcher.svg)](https://www.appbrain.com/stats/libraries/details/permissions_dispatcher/permissionsdispatcher)
 
 - **Fully Kotlin/Java support**
